@@ -1,0 +1,112 @@
+c:\users\ronald\documents\visual studio 2013\Projects\Condo\Condo\bin\Debug\Condo.exe.config
+c:\users\ronald\documents\visual studio 2013\Projects\Condo\Condo\bin\Debug\Condo.exe
+c:\users\ronald\documents\visual studio 2013\Projects\Condo\Condo\bin\Debug\Condo.pdb
+c:\users\ronald\documents\visual studio 2013\Projects\Condo\Condo\obj\Debug\Condo.csprojResolveAssemblyReference.cache
+c:\users\ronald\documents\visual studio 2013\Projects\Condo\Condo\obj\Debug\Condo.Properties.Resources.resources
+c:\users\ronald\documents\visual studio 2013\Projects\Condo\Condo\obj\Debug\Condo.csproj.GenerateResource.Cache
+c:\users\ronald\documents\visual studio 2013\Projects\Condo\Condo\obj\Debug\Condo.exe
+c:\users\ronald\documents\visual studio 2013\Projects\Condo\Condo\obj\Debug\Condo.pdb
+C:\Users\Ronald\Documents\Visual Studio 2013\Projects\Condo\Condo\obj\Debug\Condo.frm_CadastroUsuario.resources
+C:\Users\Ronald\Documents\Visual Studio 2013\Projects\Condo\Condo\obj\Debug\Condo.frm_ConsultaEbox.resources
+C:\Users\Ronald\Documents\Visual Studio 2013\Projects\Condo\Condo\obj\Debug\Condo.frm_manutencao.resources
+C:\Users\Ronald\Documents\Visual Studio 2013\Projects\Condo\Condo\obj\Debug\Condo.frm_login.resources
+C:\Users\Ronald\Documents\Visual Studio 2013\Projects\Condo\Condo\obj\Debug\Condo.frm_Inicio.resources
+C:\Users\Ronald\Documents\Visual Studio 2013\Projects\Condo\Condo\obj\Debug\Condo.frm_Setup.resources
+C:\Users\Ronald\Documents\Visual Studio 2013\Projects\Condo\Condo\obj\Debug\Condo.frm_Condominio.resources
+C:\Users\Ronald\Documents\Visual Studio 2013\Projects\Condo\Condo\obj\Debug\Condo.frm_Consultas.resources
+C:\Users\Ronald\Documents\Visual Studio 2013\Projects\Condo\Condo\obj\Debug\Condo.Formularios.frm_inclusao.resources
+C:\Users\Ronald\Documents\Visual Studio 2013\Projects\Condo\Condo\obj\Debug\Condo.Formularios.frm_Retirar.resources
+D:\Condo\Condo\bin\Debug\Condo.exe.config
+D:\Condo\Condo\obj\Debug\Condo.exe
+D:\Condo\Condo\obj\Debug\Condo.pdb
+D:\Condo\Condo\bin\Debug\Condo.exe
+D:\Condo\Condo\bin\Debug\Condo.pdb
+D:\Condo\Condo\obj\Debug\Condo.csprojResolveAssemblyReference.cache
+D:\Condo\Condo\obj\Debug\Condo.frm_CadastroUsuario.resources
+D:\Condo\Condo\obj\Debug\Condo.Formularios.frm_inclusao.resources
+D:\Condo\Condo\obj\Debug\Condo.frm_Inicio.resources
+D:\Condo\Condo\obj\Debug\Condo.Formularios.frm_Retirar.resources
+D:\Condo\Condo\obj\Debug\Condo.frm_setup.resources
+D:\Condo\Condo\obj\Debug\Condo.frm_Condominio.resources
+D:\Condo\Condo\obj\Debug\Condo.frm_ConsultaEbox.resources
+D:\Condo\Condo\obj\Debug\Condo.frm_Consultas.resources
+D:\Condo\Condo\obj\Debug\Condo.frm_login.resources
+D:\Condo\Condo\obj\Debug\Condo.frm_manutencao.resources
+D:\Condo\Condo\obj\Debug\Condo.Properties.Resources.resources
+D:\Condo\Condo\obj\Debug\Condo.csproj.GenerateResource.Cache
+D:\Condo\Condo\obj\Debug\Condo.Formularios.frm_bakup.resources
+D:\Condo_09_01_18\Condo\bin\Debug\Condo.exe.config
+D:\Condo_09_01_18\Condo\bin\Debug\Condo.exe
+D:\Condo_09_01_18\Condo\bin\Debug\Condo.pdb
+D:\Condo_09_01_18\Condo\obj\Debug\Condo.csprojResolveAssemblyReference.cache
+D:\Condo_09_01_18\Condo\obj\Debug\Condo.Formularios.frm_bakup.resources
+D:\Condo_09_01_18\Condo\obj\Debug\Condo.frm_CadastroUsuario.resources
+D:\Condo_09_01_18\Condo\obj\Debug\Condo.Formularios.frm_inclusao.resources
+D:\Condo_09_01_18\Condo\obj\Debug\Condo.frm_Inicio.resources
+D:\Condo_09_01_18\Condo\obj\Debug\Condo.Formularios.frm_Retirar.resources
+D:\Condo_09_01_18\Condo\obj\Debug\Condo.frm_setup.resources
+D:\Condo_09_01_18\Condo\obj\Debug\Condo.frm_Condominio.resources
+D:\Condo_09_01_18\Condo\obj\Debug\Condo.frm_ConsultaEbox.resources
+D:\Condo_09_01_18\Condo\obj\Debug\Condo.frm_Consultas.resources
+D:\Condo_09_01_18\Condo\obj\Debug\Condo.frm_login.resources
+D:\Condo_09_01_18\Condo\obj\Debug\Condo.frm_manutencao.resources
+D:\Condo_09_01_18\Condo\obj\Debug\Condo.Properties.Resources.resources
+D:\Condo_09_01_18\Condo\obj\Debug\Condo.csproj.GenerateResource.Cache
+D:\Condo_09_01_18\Condo\obj\Debug\Condo.exe
+D:\Condo_09_01_18\Condo\obj\Debug\Condo.pdb
+D:\Condo_09_01_18\Condo\bin\Debug\Condo.exe.manifest
+D:\Condo_09_01_18\Condo\bin\Debug\Condo.application
+D:\Condo_09_01_18\Condo\obj\Debug\Condo.exe.manifest
+D:\Condo_09_01_18\Condo\obj\Debug\Condo.application
+G:\1 Armario inteligente\1_E_BOX Romario\Condo_09_01_18\Condo\bin\Debug\Condo.exe.config
+G:\1 Armario inteligente\1_E_BOX Romario\Condo_09_01_18\Condo\bin\Debug\Condo.exe.manifest
+G:\1 Armario inteligente\1_E_BOX Romario\Condo_09_01_18\Condo\bin\Debug\Condo.application
+G:\1 Armario inteligente\1_E_BOX Romario\Condo_09_01_18\Condo\bin\Debug\Condo.exe
+G:\1 Armario inteligente\1_E_BOX Romario\Condo_09_01_18\Condo\bin\Debug\Condo.pdb
+G:\1 Armario inteligente\1_E_BOX Romario\Condo_09_01_18\Condo\bin\Debug\MySql.Data.dll
+G:\1 Armario inteligente\1_E_BOX Romario\Condo_09_01_18\Condo\bin\Debug\MySql.Web.dll
+G:\1 Armario inteligente\1_E_BOX Romario\Condo_09_01_18\Condo\obj\Debug\Condo.csprojAssemblyReference.cache
+G:\1 Armario inteligente\1_E_BOX Romario\Condo_09_01_18\Condo\obj\Debug\Condo.Formularios.frm_bakup.resources
+G:\1 Armario inteligente\1_E_BOX Romario\Condo_09_01_18\Condo\obj\Debug\Condo.frm_CadastroUsuario.resources
+G:\1 Armario inteligente\1_E_BOX Romario\Condo_09_01_18\Condo\obj\Debug\Condo.Formularios.frm_inclusao.resources
+G:\1 Armario inteligente\1_E_BOX Romario\Condo_09_01_18\Condo\obj\Debug\Condo.frm_Inicio.resources
+G:\1 Armario inteligente\1_E_BOX Romario\Condo_09_01_18\Condo\obj\Debug\Condo.Formularios.frm_Retirar.resources
+G:\1 Armario inteligente\1_E_BOX Romario\Condo_09_01_18\Condo\obj\Debug\Condo.frm_setup.resources
+G:\1 Armario inteligente\1_E_BOX Romario\Condo_09_01_18\Condo\obj\Debug\Condo.frm_Condominio.resources
+G:\1 Armario inteligente\1_E_BOX Romario\Condo_09_01_18\Condo\obj\Debug\Condo.frm_ConsultaEbox.resources
+G:\1 Armario inteligente\1_E_BOX Romario\Condo_09_01_18\Condo\obj\Debug\Condo.frm_Consultas.resources
+G:\1 Armario inteligente\1_E_BOX Romario\Condo_09_01_18\Condo\obj\Debug\Condo.frm_login.resources
+G:\1 Armario inteligente\1_E_BOX Romario\Condo_09_01_18\Condo\obj\Debug\Condo.frm_manutencao.resources
+G:\1 Armario inteligente\1_E_BOX Romario\Condo_09_01_18\Condo\obj\Debug\Condo.Properties.Resources.resources
+G:\1 Armario inteligente\1_E_BOX Romario\Condo_09_01_18\Condo\obj\Debug\Condo.csproj.GenerateResource.cache
+G:\1 Armario inteligente\1_E_BOX Romario\Condo_09_01_18\Condo\obj\Debug\Condo.csproj.CoreCompileInputs.cache
+G:\1 Armario inteligente\1_E_BOX Romario\Condo_09_01_18\Condo\obj\Debug\Condo.exe.manifest
+G:\1 Armario inteligente\1_E_BOX Romario\Condo_09_01_18\Condo\obj\Debug\Condo.application
+G:\1 Armario inteligente\1_E_BOX Romario\Condo_09_01_18\Condo\obj\Debug\Condo.csproj.CopyComplete
+G:\1 Armario inteligente\1_E_BOX Romario\Condo_09_01_18\Condo\obj\Debug\Condo.exe
+G:\1 Armario inteligente\1_E_BOX Romario\Condo_09_01_18\Condo\obj\Debug\Condo.pdb
+C:\Users\rportal\Desktop\Banco condo\Condo\bin\Debug\Condo.exe.config
+C:\Users\rportal\Desktop\Banco condo\Condo\obj\Debug\Condo.exe
+C:\Users\rportal\Desktop\Banco condo\Condo\obj\Debug\Condo.pdb
+C:\Users\rportal\Desktop\Banco condo\Condo\obj\Debug\Condo.Formularios.frm_bakup.resources
+C:\Users\rportal\Desktop\Banco condo\Condo\obj\Debug\Condo.frm_CadastroUsuario.resources
+C:\Users\rportal\Desktop\Banco condo\Condo\obj\Debug\Condo.Formularios.frm_inclusao.resources
+C:\Users\rportal\Desktop\Banco condo\Condo\obj\Debug\Condo.frm_Inicio.resources
+C:\Users\rportal\Desktop\Banco condo\Condo\obj\Debug\Condo.Formularios.frm_Retirar.resources
+C:\Users\rportal\Desktop\Banco condo\Condo\obj\Debug\Condo.frm_setup.resources
+C:\Users\rportal\Desktop\Banco condo\Condo\obj\Debug\Condo.frm_Condominio.resources
+C:\Users\rportal\Desktop\Banco condo\Condo\obj\Debug\Condo.frm_ConsultaEbox.resources
+C:\Users\rportal\Desktop\Banco condo\Condo\obj\Debug\Condo.frm_Consultas.resources
+C:\Users\rportal\Desktop\Banco condo\Condo\obj\Debug\Condo.frm_login.resources
+C:\Users\rportal\Desktop\Banco condo\Condo\obj\Debug\Condo.frm_manutencao.resources
+C:\Users\rportal\Desktop\Banco condo\Condo\obj\Debug\Condo.Properties.Resources.resources
+C:\Users\rportal\Desktop\Banco condo\Condo\obj\Debug\Condo.csproj.GenerateResource.Cache
+C:\Users\rportal\Desktop\Banco condo\Condo\bin\Debug\Condo.exe.manifest
+C:\Users\rportal\Desktop\Banco condo\Condo\bin\Debug\Condo.application
+C:\Users\rportal\Desktop\Banco condo\Condo\bin\Debug\Condo.exe
+C:\Users\rportal\Desktop\Banco condo\Condo\bin\Debug\Condo.pdb
+C:\Users\rportal\Desktop\Banco condo\Condo\obj\Debug\Condo.csprojAssemblyReference.cache
+C:\Users\rportal\Desktop\Banco condo\Condo\obj\Debug\Condo.csproj.CoreCompileInputs.cache
+C:\Users\rportal\Desktop\Banco condo\Condo\obj\Debug\Condo.exe.manifest
+C:\Users\rportal\Desktop\Banco condo\Condo\obj\Debug\Condo.application
+C:\Users\rportal\Desktop\Banco condo\Condo\obj\Debug\Condo.csproj.CopyComplete
